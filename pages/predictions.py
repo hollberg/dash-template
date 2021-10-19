@@ -18,6 +18,8 @@ column1 = dbc.Col(
             ## Predictions
 
             Your instructions: How to use your app to get new predictions.
+            
+            ![Alt text](https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1018%2Fr924485_1296x518_5%2D2.jpg&w=628&h=251&scale=crop&cquality=80&location=center&format=jpg "Los Bravos")
 
             """
         ),
